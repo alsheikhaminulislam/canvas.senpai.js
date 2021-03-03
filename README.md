@@ -56,11 +56,3 @@ let data = await canva.welcome(member, {options})
  //GRADIANTS NAME - coldsky, peakblue, pinkman, aqua, darkness, angel
 ```
 
-
-
-## UPCOMING
-
- - Rank Card
- - Leave Image
- - Fun Images
- - Profile Card
