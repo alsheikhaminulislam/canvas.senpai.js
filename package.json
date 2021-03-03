@@ -1,5 +1,5 @@
 {
-  "name": "canvas.senpai.js",
+  "name": "@deathinside/canvas.senpai.js",
   "version": "0.0.1",
   "description": "Package that will let you do canvas stuff very easily 😄",
   "main": "index.js",

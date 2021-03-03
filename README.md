@@ -6,7 +6,7 @@ Package that will let you do canvas things very easily :D
 ```js
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const { CanvasSenpai } = require("canvas.senpai.js")
+const { CanvasSenpai } = require("@deathinside/canvas.senpai.js")
 const canva = new CanvasSenpai();
 
 client.once("ready", () => {
